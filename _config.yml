@@ -1,7 +1,7 @@
 name: 'Test Webpage'
 description: 'So much potential'
 tagline: 'yada yada'
-url: 'http://iris-robedeaux.github.io'
+url: 'iris-robedeaux.github.io'
 baseurl: '/sampleWebsiteNew'
 paginate: 10
 
