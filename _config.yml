@@ -2,7 +2,7 @@ name: 'Test Webpage'
 description: 'So much potential'
 tagline: 'yada yada'
 url: 'http://iris-robedeaux.github.io'
-baseurl: 'sampleWebsiteNew'
+baseurl: '/sampleWebsiteNew'
 paginate: 10
 
 markdown: kramdown
