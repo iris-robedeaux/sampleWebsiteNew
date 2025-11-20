@@ -4,6 +4,9 @@ author: Dana Ernst
 layout: default
 ---
 
-## Playground
+## The Central Limit Theorem
+Let $X_1, X_2,\ldotsX_n$ be i.i.d. random variables with expected value $E[X_i]=\mu < \inf$ and variance $0 <$. 
+$x^{2}+y^{2} = r^{2}$ 
+\\[ 
 
-Edit this page to include either the Fundamental Theorem of Calculus, the First Isomorphism Theorem for Groups, or the Central Limit Theorem.  Use correct mathematical typesetting.
+\\]
